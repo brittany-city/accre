@@ -3,7 +3,7 @@
 #### Project Status: Complete
 
 ## Motivation
-Nashville Software School's Data Science cohort was approached by Vanderbilt's Advanced Computing Center for Research and Education (ACCRE) to 
+Nashville Software School's Data Science cohort was approached by Vanderbilt's Advanced Computing Center for Research and Education (ACCRE) to improve their team's effectiveness in supporting the institutions computing requests. 
 
 ## Project Goals
 * Were there lots of small jobs submitted together as an array?
